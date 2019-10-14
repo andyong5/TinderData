@@ -7,7 +7,7 @@ How to view your data:
 3. Click the fork button 
 <img src="picture1.png" width=800>
 
-4.Click the 3 vertical grey dots and upload your file "data.json"
+4. Click the 3 vertical grey dots and upload your file "data.json"
 
 
 5. Click run and see your data!
